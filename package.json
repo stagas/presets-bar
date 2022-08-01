@@ -79,8 +79,8 @@
   "dependencies": {
     "everyday-utils": "^1.0.0",
     "rfdc": "1.3.0",
-    "sigl": "^0.0.8",
-    "sigl-ui": "^0.0.1",
-    "x-sortable": "^0.0.1"
+    "sigl": "^0.0.9",
+    "sigl-ui": "^0.0.2",
+    "x-sortable": "^0.1.0"
   }
 }
